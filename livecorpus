@@ -1,1 +1,2 @@
-delete
+git rm livecorpus 
+git commit -m "remove livecorpus"
